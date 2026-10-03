@@ -1,0 +1,8 @@
+{
+  "appId": "com.pnjoroge.trainingos",
+  "appName": "Training OS",
+  "webDir": "www",
+  "android": {
+    "loggingBehavior": "debug"
+  }
+}
